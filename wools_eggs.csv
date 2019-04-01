@@ -1,0 +1,38 @@
+Category,State/ UT Name,Eggs Production (ten million. no.) - 2009-10,Eggs Production (ten million. no.) - 2010-11,Eggs Production (ten million. no.) - 2011-12,Eggs Production (ten million. no.) - 2012-13,Eggs Production (ten million. no.) - 2013-14,Eggs Production (ten million. no.) - 2014-15,Eggs Production (ten million. no.) - 2015-16,Wool Production (thousand tonne) - 2009-10,Wool Production (thousand tonne) - 2010-11,Wool Production (thousand tonne) - 2011-12,Wool Production (thousand tonne) - 2012-13,Wool Production (thousand tonne) - 2013-14,Wool Production (thousand tonne) - 2014-15,Wool Production (thousand tonne) - 2015-16
+State,Andhra Pradesh,1939.6,2012.8,2121,2229.7,2278.8,1309.6,1417.4,4.6,4.8,4.9,5,5,0.8,0.8
+State,Arunachal Pradesh,3.8,4.1,4.2,4.4,4,4.2,4.3,NA,0,0,0,0,0,0
+State,Assam,46.7,47.1,47.1,47.1,47.2,47.3,47.4,NA,NA,NA,NA,NA,NA,NA
+State,Bihar,110,74.5,75.5,83.7,93.1,98.5,100.2,0.3,0.3,0.3,0.3,0.3,0.3,0.2
+State,Chhattisgarh,105.2,124.5,129.8,137,143.3,147.3,150.3,0.2,0.1,0.1,0.1,0.1,0.1,0.1
+State,Goa,1.5,1.5,1.5,4.6,0.6,0.8,3.5,NA,NA,NA,NA,NA,NA,NA
+State,Gujarat,127.6,132.7,142.7,145.6,155.5,165.7,172.2,2.9,2.9,2.8,2.7,2.6,2.6,2.3
+State,Haryana,384.5,396.4,411.4,423.4,435.9,457.9,491.3,1.2,1.3,1.3,1.4,1.4,1.4,0.7
+State,Himachal Pradesh,10,10.2,10.5,10.7,10.8,10.8,8.1,1.6,1.6,1.6,1.6,1.7,1.7,1.4
+State,Jammu & Kashmir,72.4,77.3,65.2,67.2,66.5,49.6,23.1,7.3,7.4,7.5,7.7,8.7,8.4,6.9
+State,Jharkhand,39.3,41.5,43.1,42.4,44.5,46.6,48.3,0.1,0.1,0.2,0.2,0.2,0.2,0.2
+State,Karnataka,290.9,306.7,347,367.7,413,439.7,476.6,7.2,7.2,7.8,8,7.8,8.8,8.2
+State,Kerala,163.3,168.6,170.5,223.8,247.7,250.4,244.3,NA,NA,NA,NA,NA,NA,NA
+State,Madhya Pradesh,70.8,75.8,79.7,87.1,96.7,117.8,144.1,0.4,0.4,0.4,0.4,0.5,0.5,0.4
+State,Maharashtra,386.4,422.5,438.6,456.6,483.2,507.9,528.6,1.7,1.4,1.5,1.5,1.5,1.4,1.4
+State,Manipur,11.2,11.4,11.5,11.6,11.6,11.3,10.4,NA,NA,NA,NA,NA,NA,NA
+State,Meghalaya,10,10.1,10.2,10.3,10.5,10.6,10.6,NA,NA,NA,NA,NA,NA,NA
+State,Mizoram,3.7,3.9,3.5,3.5,3.6,3.8,3.9,NA,NA,NA,NA,NA,NA,NA
+State,Nagaland,8.3,8,7,6.2,2.2,3.5,4.7,NA,NA,NA,NA,NA,NA,NA
+State,Odisha,231.9,235.7,230.1,232.3,236.1,192.5,192.7,NA,NA,NA,NA,NA,NA,NA
+State,Punjab,328.3,354.5,360.3,379.1,433.8,426.4,442.2,0.5,0.5,0.5,0.6,0.6,0.5,0.5
+State,Rajasthan,67.1,67,96.1,103.4,119,132,138.5,12.5,12.3,13.2,14,15,14.5,13.4
+State,Sikkim,1.4,1.4,1.5,1.5,1,0.6,1,NA,0,0,0,0,0,0
+State,Tamil Nadu,1084.8,1151.4,1185.2,1193.4,1412.4,1592.5,1612.5,NA,0,0,0,0,0,0
+State,Telangana,NA,NA,NA,NA,NA,1061.9,1120.6,NA,NA,NA,NA,NA,4.4,4.6
+State,Tripura,14.4,15.7,16.5,15.7,17.9,19.8,21.6,NA,0,0,NA,NA,NA,NA
+State,Uttar Pradesh,106,109.9,160.8,170.7,181.2,207.8,219.3,1.5,1.5,1.4,1.5,1.5,1.5,1.3
+State,Uttarakhand,25.4,26.1,27.1,30.8,33.7,37,39.1,0.4,0.4,0.4,0.4,0.4,0.5,0.5
+State,West Bengal,369.8,399.4,434.3,471.2,474.6,481.4,601.1,0.7,0.7,0.7,0.7,0.7,0.7,0.7
+Union Territory,A & N Island,6.6,6.7,7.8,7.4,11.9,8.6,9.9,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Chandigarh,2.5,1.8,1.8,1.7,1.7,1.7,1.7,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Dadra & Nagar Haveli,0.7,0.7,0.7,0.7,0.7,0.7,0.7,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Daman & Diu,0.2,0.2,0.2,0.2,0.1,0.2,0.2,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Delhi,NA,NA,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Lakshadweep,1.4,1.4,1.4,1.4,1.3,1.3,1.4,NA,NA,NA,NA,NA,NA,NA
+Union Territory,Puducherry,1.1,1.1,1.2,1.1,1.1,1.1,1.1,NA,NA,NA,NA,NA,NA,NA
+Total(All India),All India,6024.4,6302.4,6645,6973,7475.2,7848.4,8292.9,43.1,43,44.7,46.1,47.9,48.1,43.6
